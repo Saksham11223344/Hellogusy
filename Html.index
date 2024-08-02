@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saksham's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .contact-info a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Saksham's Personal Webpage</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>About Me</h2>
+            <p>Hi, my name is Saksham. I am a student of class 12th, and I have a passion for listening to songs. My future goal is to become a doctor, and I enjoy studying accounts.</p>
+        </section>
+        <section>
+            <h2>Hobbies</h2>
+            <p>One of my favorite hobbies is listening to songs. It helps me relax and stay motivated.</p>
+        </section>
+        <section>
+            <h2>Future Goals</h2>
+            <p>I aspire to become a doctor in the future. I am committed to working hard towards achieving this goal.</p>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>If you would like to get in touch with me, you can reach me on my Instagram: <a href="https://www.instagram.com/s_aksham" target="_blank">saksham singh s_aksham</a>.</p>
+        </section>
+    </div>
+</body>
+</html>
 
